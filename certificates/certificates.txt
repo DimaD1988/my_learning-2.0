@@ -12,3 +12,5 @@ https://app.rs.school/certificate/m6mm0g1n
 RS-SCHOOL PRE STAGE 2022Q4
 https://www.udemy.com/certificate/UC-1fb38d12-fadb-46ad-9dd8-ad4ed931f7e6/
 WEBPACK
+https://www.udemy.com/certificate/UC-34811597-2c08-4dbd-bfc6-966b70c3fef3/
+JAVASCRIPT
