@@ -16,3 +16,5 @@ https://www.udemy.com/certificate/UC-34811597-2c08-4dbd-bfc6-966b70c3fef3/
 JAVASCRIPT
 https://www.udemy.com/certificate/UC-179a9b04-8081-420e-afe2-f907f3fefa7d/
 NodeJS Tutorial and Projects Course
+https://www.udemy.com/certificate/UC-ccf28f2c-47ec-47ca-ac71-17d205f49466/
+The Modern Javascript Bootcamp Course (2022)
