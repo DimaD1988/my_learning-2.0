@@ -20,3 +20,5 @@ https://www.udemy.com/certificate/UC-ccf28f2c-47ec-47ca-ac71-17d205f49466/
 The Modern Javascript Bootcamp Course (2022)
 https://www.udemy.com/certificate/UC-fadfaa5a-001e-49a3-9c69-a99a5ec0ea3d/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
 Tailwind CSS for Beginners
+https://www.udemy.com/certificate/UC-73dc1375-94ed-488a-acc0-b9ccc012c980/
+Tailwind CSS From Scratch | Learn By Building Projects
