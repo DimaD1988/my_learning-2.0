@@ -22,3 +22,5 @@ https://www.udemy.com/certificate/UC-fadfaa5a-001e-49a3-9c69-a99a5ec0ea3d/?utm_c
 Tailwind CSS for Beginners
 https://www.udemy.com/certificate/UC-73dc1375-94ed-488a-acc0-b9ccc012c980/
 Tailwind CSS From Scratch | Learn By Building Projects
+https://www.udemy.com/certificate/UC-d97d4728-b00a-4e11-9bd7-314d0290b389/
+Understanding TypeScript 
